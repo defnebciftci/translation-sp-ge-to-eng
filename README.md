@@ -3,4 +3,4 @@ A machine learning/deep learning project done on my internship using Bauhdau Att
 
 Original | Language (as SP or GE) | Translation
 
-
+The project was done using Google Colab environment.
